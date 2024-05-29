@@ -1,4 +1,4 @@
-name: Workflow For Hello World File
+name: A Workflow For Hello World File
 on:
    workflow_dispatch:
    push:
