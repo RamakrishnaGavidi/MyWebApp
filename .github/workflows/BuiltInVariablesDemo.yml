@@ -1,5 +1,5 @@
 name: BuiltIn Variables Demo
-run-name: ${{ github.actor }} is testing out  Github Actions
+run-name: ${{ github.actor }} is testing out BuiltIn Variables Demo
 on:
   workflow_dispatch
 jobs:
