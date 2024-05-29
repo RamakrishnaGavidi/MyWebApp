@@ -20,7 +20,7 @@ jobs:
         
     - name: "Say Hello, it's Monday"
       if: ${{ env.DAY_OF_WEEK == 'Monday' }}
-      run: echo "${{ env.Greeting }} ${{ env.FirstName }} Today is ${{ DAY_OF_WEEK }}!"
+      run: echo "${{ env.Greeting }} ${{ env.FirstName }}"
       env:
        FirstName: Ramakrishna
        
