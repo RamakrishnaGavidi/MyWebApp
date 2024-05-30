@@ -1,4 +1,4 @@
-name: Caching Demo
+name: Caching Demo 
 on: workflow_dispatch
 jobs:
  build:
